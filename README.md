@@ -2,12 +2,15 @@
 
 #   Project 91-vending
 
-##  Displays to simulate products on vending machine
+##  Simulate vending machine using 8x8 LEDs matrix
 
     Austral - Informatica Electronica - 2023 
     EAMartinez
 
     See doc/README.md for further details
+    Also, for convinience, doc/README.md converted to pdf can be read by doc/Vending.doc
+
+
 
     
 

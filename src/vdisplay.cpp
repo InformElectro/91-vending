@@ -1,5 +1,7 @@
 /*
  *  vdisplay.cpp
+ *
+ *      Project 91.vending
  *      Showing stock in matrix display
  */
 

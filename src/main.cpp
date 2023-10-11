@@ -8,7 +8,6 @@
 #include <Arduino.h>
 
 #include "cutils.h"
-#include "wifi_ruts.h"
 #include "leds.h"
 #include "matrix.h"
 #include "stock.h"
@@ -47,7 +46,6 @@ void
 setup(void)
 {
     Serial.begin(BAUD);
-//    connect_wifi();
 
     init_leds();
     init_matrix();
